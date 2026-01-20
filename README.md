@@ -1,10 +1,10 @@
 # Hey, I’m Bilguuntugs 👋🔥
-
 ### 2nd-year Computer Science student • Building from zero • Shipping projects anyway
 ---
 ## 🚀 About me
 I’m a university student learning software development from scratch — step by step, project by project.  
 I like building tools that make life easier for students and turning pressure into progress.
+
 ---
 ## 🧠 What I’m focusing on right now
 - Strong fundamentals (problem-solving, clean code, debugging)
