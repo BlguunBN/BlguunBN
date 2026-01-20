@@ -1,7 +1,7 @@
 # Hey, I’m Bilguuntugs 👋🔥
 **2nd-year Computer Science student** • Building from zero • Shipping projects anyway
 
-📍 Mongolia (Ulaanbaatar) / China (Suzhou)  
+📍 (Ulaanbaatar) / Suzhou  
 🎯 Looking for: **Internship** + **Freelance** opportunities
 ---
 ## 🚀 About me
@@ -19,12 +19,6 @@ Right now, I’m working on a **personal Study Flow app** for students who strug
 A personal study flow app to help students stay focused under pressure.  
 🔗 Repo: `<paste link>` • 🎥 Demo: `<optional link>` • 🧩 Tech: `<stack>`
 
----
-## 🤝 Open to
-- Internship opportunities (CS / Software / Dev roles)
-- Freelance work (student-friendly budgets are okay!)
-- Collaboration on beginner-friendly projects
-- Feedback/code reviews (I love learning fast)
 ---
 ## 📫 Connect with me
 - LinkedIn: `www.linkedin.com/in/bilguuntugsa`
