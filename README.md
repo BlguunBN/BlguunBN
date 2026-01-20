@@ -1,14 +1,10 @@
 # Hey, I’m Bilguuntugs 👋🔥
 **2nd-year Computer Science student** • Building from zero • Shipping projects anyway
-
-📍 (Ulaanbaatar) / Suzhou  
-🎯 Looking for: **Internship** + **Freelance** opportunities
 ---
 ## 🚀 About me
 I’m a university student learning software development from scratch — step by step, project by project.  
 I like building tools that make life easier for students and turning pressure into progress.
 
-Right now, I’m working on a **personal Study Flow app** for students who struggle to study under high pressure.
 ---
 ## 🧠 What I’m focusing on (right now)
 - Strong fundamentals (problem solving, clean code, debugging)
