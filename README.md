@@ -1,5 +1,5 @@
 # Hey, I’m Bilguuntugs 👋🔥
-2nd-year Computer Science student** • Building from zero • Shipping projects anyway
+### 2nd-year Computer Science student** • Building from zero • Shipping projects anyway
 ---
 ## 🚀 About me
 I’m a university student learning software development from scratch — step by step, project by project.  
