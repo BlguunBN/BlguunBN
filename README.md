@@ -19,6 +19,6 @@ I like building tools that make life easier for students and turning pressure in
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/bilguuntugsa
 - Email: mailto:Bilguuntugs8888@gmail.com
-- Portfolio: (add link)
+- Portfolio:https://t1portfolio.vercel.app/
 ---
 ⭐ If you like what I build, feel free to follow — I’m always shipping the next version.
