@@ -46,76 +46,17 @@ I'm a CS student based in China (originally from Ulaanbaatar, Mongolia) who love
 
 ---
 
-### ⭐ Featured Projects
+### 📊 Quick Stats
 
-#### [EduSchedule-AI](https://github.com/BlguunBN/EduSchedule-AI)
-**AI-Powered Calendar Assistant**
-
-An intelligent scheduling agent that integrates with Outlook, parses emails into calendar events, and lets students chat with an AI to manage their timetables. Features full undo/recovery and timetable upload.
-
-`TypeScript` `AI/LLM` `Outlook API` `Next.js` `Prisma`
-
----
-
-#### [Formify](https://github.com/BlguunBN/formify)
-**Lead Capture SaaS for Small Businesses**
-
-A simple, effective SaaS platform that helps small businesses capture and manage leads through customizable forms. Built with modern web standards and focused on ease of use.
-
-`Next.js` `TypeScript` `SaaS` `PostgreSQL` `Tailwind`
-
----
-
-#### [Obsidian Brain](https://github.com/BlguunBN/obsidian-brain)
-**Open Source Obsidian Plugin**
-
-A community plugin for Obsidian that enhances note-taking workflows. Built for the Obsidian ecosystem and available to thousands of users.
-
-`TypeScript` `Obsidian API` `Plugin Development`
-
----
-
-#### [Message Reply](https://github.com/BlguunBN/Message_reply)
-**AI-Assisted Android Messaging**
-
-Drop in a rough note, get a polished, context-aware reply. An Android app that uses AI to help users compose better messages faster.
-
-`Kotlin` `Android` `AI Integration` `Mobile UX`
-
----
-
-#### [Study Flow](https://github.com/BlguunBN/Study_Flow_app)
-**Productivity Dashboard for Students**
-
-A full-stack productivity app featuring Pomodoro timers, task management, deadline tracking, and an integrated AI assistant to keep students on track.
-
-`Next.js` `Prisma` `Zustand` `Full-Stack`
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlguunBN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlguunBN&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🎯 What I'm Exploring Now
-
-- **AI Product Design** — How to build LLM-powered features that feel natural and useful
-- **System Design** — Designing scalable, maintainable architectures
-- **Cloud & DevOps** — Deployment workflows, CI/CD, and infrastructure basics
+- 📦 **12** public repositories  
+- 👥 **4** followers
+- 🔥 Focused on **AI agents**, **SaaS products**, **mobile apps** & **open source plugins**
 
 ---
 
 ### 💡 Let's Connect
 
-I'm actively seeking **internship opportunities** and **collaboration** on interesting projects. Whether you want to discuss tech, need a hand on a project, or just want to say hi — reach out!
+I'm actively seeking **internship opportunities** and collaboration on interesting projects.
 
 - 📧 **Email:** [Bilguuntugs8888@gmail.com](mailto:Bilguuntugs8888@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/bilguuntugsa](https://www.linkedin.com/in/bilguuntugsa/)
